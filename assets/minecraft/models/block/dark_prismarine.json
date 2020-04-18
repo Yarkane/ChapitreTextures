@@ -1,0 +1,15 @@
+{
+	"parent" : "block/template_dark_prismarine",
+	"textures": {
+		"un": "block/diorite_defoncee_1",
+		"deux": "block/diorite_defoncee_2",
+		"trois": "block/diorite_defoncee_3",
+		"quatre": "block/diorite_defoncee_4",
+		"cinq": "block/diorite_defoncee_5",
+		"six": "block/diorite_defoncee_6",
+		"particle": "block/diorite_defoncee_1"
+	}
+}
+		
+		
+

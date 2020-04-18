@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/prismarine", "uvlock": false },
+			{ "model": "block/prismarine", "y": 90, "uvlock": false },
+			{ "model": "block/prismarine", "y": 180, "uvlock": false },
+			{ "model": "block/prismarine", "y": 270, "uvlock": false }
+		]
+		
+    }
+}
+

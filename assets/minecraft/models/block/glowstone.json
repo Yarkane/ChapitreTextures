@@ -1,0 +1,13 @@
+{
+	"parent" : "block/template_glowstone",
+	"textures": {
+		"un": "block/diorite_gravee_1",
+		"deux": "block/diorite_gravee_2",
+		"trois": "block/diorite_gravee_3",
+		"quatre": "block/diorite_gravee_4",
+		"blank": "block/polished_diorite",
+		"particle": "block/diorite_gravee_1"
+	}
+}
+		
+		

@@ -1,0 +1,14 @@
+{
+	"parent" : "block/template_prismarine",
+	"textures": {
+		"un": "block/diorite_corrompue_1",
+		"deux": "block/diorite_corrompue_2",
+		"trois": "block/diorite_corrompue_3",
+		"quatre": "block/diorite_corrompue_4",
+		"blank": "block/diorite_corrompue_0",
+		"particle": "block/diorite_corrompue_1"
+	}
+}
+		
+		
+

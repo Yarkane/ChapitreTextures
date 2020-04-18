@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/glowstone", "uvlock": false },
+			{ "model": "block/glowstone", "y": 90, "uvlock": false },
+			{ "model": "block/glowstone", "y": 180, "uvlock": false },
+			{ "model": "block/glowstone", "y": 270, "uvlock": false }
+		]
+		
+    }
+}
