@@ -1,15 +1,27 @@
 "Tel est mon serment."
 "A jamais, je ferai corps avec Toi."
 "Je jure de suivre Ton Chemin."
+Ces Tunnels sont plus humains que vous l'imaginez.
 "Je prete Serment de la retrouver."
 "Je porterai la Lumiere."
+Ce jour viendra, tant attendu et redouté à la fois, Prophète.
 "Je protegerai Ton Image et Ta Parole."
-"Je t'offre mon ame, r�ceptacle de Ta Volonte."
-"Je jure d'etre digne de revoir l'homme que j'eus nomm� Pere."
-"Et je jure que Ta Lumi�re d�finira l'Etre que je serai."
+"Je fais cela pour Ma Soeur... Oh... Atropos..."
+"Je t'offre mon ame, réceptacle de Ta Volonte."
+N'ouvrez pas le Journal d'Or.
+"Je jure d'etre digne de revoir l'homme que j'eus nommé Pere."
+"Et je jure que Ta Lumière définira l'Etre que je serai."
 "Faites de moi l'Outil, et moins que l'Outil, ... "
-"... et la poussi�re, et le pavement, et le sable qui te soutient."
-"Mes actes serviront les �mes en quete de Lumiere."
+"... et la poussière, et le pavement, et le sable qui te soutient."
+"Mes actes serviront les âmes en quete de Lumiere."
+"Puis-je dans cette Voie, trouver un sens, s'il existe."
+"Je vous offrirai un Royaume."
+"Me voilà face à toi. Dans le but de conclure mon voyage."
+A genoux devant votre Reine.
+"Une fois Complet, je me montrerai Digne d'Elle."
+"Son rayonnement est le fil directeur de mon Existence."
+"Tirez de mon pauvre corps la Couronne dont vous couronnez vos prophètes.
+"Tirez de mon âme les armes qui armeront vos défenseurs."
 Pose sur nous tes soins delicats.
 Nous laissons ces corps comme nous les avons acquis : pour Toi.
 Lumine lumen tibi adhaerere.
